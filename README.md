@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cnodon
-- 👀 I’m interested in graphics, AI and web development
-- 🌱 I’m currently learning Pytorch
-- 💞️ I’m looking to collaborate on above.
-- 📫 How to reach me ...
+- 👋 Hi, I’m PKR, AI product engagement.
+- 👀 I’m interested in XR and AI development
+- 💞️ I’m founding a company.
+- 📫 email: odon@qq.com
 
 <!---
 cnodon/cnodon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
